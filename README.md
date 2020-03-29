@@ -10,7 +10,7 @@ Sabzeh is symbol of iranians norooz.
 
 
 <a href="https://github.com/mehrdad-dev/kaleh-sabzehi/tree/master/demo" target="_blank">
-<img src="https://raw.githubusercontent.com/mehrdad-dev/kaleh-sabzehi/master/demo/demo.mp4" width="48%">
+<img src="https://raw.githubusercontent.com/mehrdad-dev/kaleh-sabzehi/master/demo/demo.gif" width="48%">
 </a>
 
 ## run:
