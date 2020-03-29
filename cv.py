@@ -15,8 +15,8 @@ while True:
 		
 	faces = facexml.detectMultiScale(frame)               # use xml
 
-	if len(faces) > 1: 
-		raise ValueError('only one face !!!   But: ' + str(len(faces)))
+	# if len(faces) > 1: 
+	# 	raise ValueError('only one face !!!   But: ' + str(len(faces)))
 
 	for (x,y,w,h) in faces:
 		# cv2.rectangle(frame,(x,y),(x+w,y+h),(0,0,255),5)  # draw a rectangle
