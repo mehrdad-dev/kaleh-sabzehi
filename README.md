@@ -9,8 +9,8 @@ Kaleh Sabzehei detecting your face and then apply sabzeh effect on your head.
 Sabzeh is symbol of iranians norooz.
 
 
-<a href="https://github.com/mehrdad-dev/kaleh-sabzehi/demo/demo.mp4" target="_blank">
-<img src="https://github.com/mehrdad-dev/kaleh-sabzehi/demo/demo.mp4" width="48%">
+<a href="https://github.com/mehrdad-dev/kaleh-sabzehi/tree/master/demo" target="_blank">
+<img src="https://github.com/mehrdad-dev/kaleh-sabzehi/tree/master/demo/demo.mp4" width="48%">
 </a>
 
 ## run:
