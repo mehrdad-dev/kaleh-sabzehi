@@ -30,7 +30,5 @@ v1.1 has some bugs !
 if you want to contribute send your pull request.
 
 
-**This repo forked from amin3mej/python-sabzeh, But i developed this repo and send pull request**
-
 ### License MIT
 
