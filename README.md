@@ -2,9 +2,9 @@
 
 # Kaleh Sabzehi  |   کله سبزه ای 
 
-## What is kaleh sabzehi ?
+## What is the Kaleh Sabzehi ?
 
-Kaleh Sabzehei detecting your face and then apply sabzeh effect on your head.
+detect your face and then apply sabzeh effect on your head!
 
 Sabzeh is symbol of iranians norooz.
 
@@ -25,7 +25,7 @@ run this command on terminal for install open cv:
 
 ## v1.1:
 
-v1.1 has some bugs !
+v1.1 has some bugs!
 
 if you want to contribute send your pull request.
 
